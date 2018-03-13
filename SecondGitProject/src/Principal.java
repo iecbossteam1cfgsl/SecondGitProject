@@ -11,5 +11,8 @@ public class Principal {
 		System.out.println("");
 
 	}
+	public void modify() {
+		System.out.println("Modify principal");
+	}
 
 }
