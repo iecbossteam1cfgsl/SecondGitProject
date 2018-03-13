@@ -7,5 +7,8 @@ public class Principal {
 		System.out.println("text second commit");
 		System.out.println("");
 	}
+	public void modify() {
+		System.out.println("Modify principal");
+	}
 
 }
