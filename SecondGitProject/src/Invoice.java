@@ -7,5 +7,8 @@ public class Invoice {
 		this.id = id;
 		this.producto = producto;
 	}
+	private void modify() {
+		System.out.println("Modify invoice");
+	}
 	
 }
